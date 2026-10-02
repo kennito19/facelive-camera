@@ -19,9 +19,8 @@ FaceLive Camera adds a webcam called **“FaceLive Camera”** to Windows. Pick 
 
 ## Get started in 2 minutes
 
-1. **[Download FaceLive Camera](https://facelive.online/download/windows?ref=github)** and unzip it.
-2. Run `FaceLiveCamera.exe` and allow the one-time setup that adds the webcam.
-   If Windows shows *“Windows protected your PC”*, click **More info → Run anyway**.
+1. **[Download FaceLive Camera](https://facelive.online/download/windows?ref=github)** and run the installer. It adds the webcam and a Start menu shortcut.
+2. If Windows shows *“Windows protected your PC”*, click **More info → Run anyway**.
 3. Sign in, press **Start camera**, pick a face and press **Transform**.
 4. In your call app, open the camera settings and choose **FaceLive Camera**.
 
@@ -43,7 +42,7 @@ Full tutorial with troubleshooting: **https://facelive.online/desktop**
 
 **Requirements?** Windows 11 (64-bit), a webcam and an internet connection.
 
-**Updates?** The app tells you when a new version is out, and the download link always serves the newest release. Most improvements arrive automatically because the Studio inside the app is live.
+**Updates?** When a new version is out, click the notice in the app's status bar and it updates itself. The download link always serves the newest release. Uninstall any time from Windows Settings → Apps. Most improvements arrive automatically because the Studio inside the app is live.
 
 ## Use it responsibly
 
